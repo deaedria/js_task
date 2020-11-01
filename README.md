@@ -6,5 +6,5 @@ Text Editor   | Bahasa Pemrograman | Online Editor IDE
 ------------- | -------------------| -----------------
 VS Code       | JavaScript         | https://es6console.com/
 
-Note : Termakasih 
+Note : Termakasih atas kesempatannya, saya telah mengerjakan soal dengan semampu saya. Mohon maaf, untuk nomor 4 masih dalam proses pengerjaan 
 
